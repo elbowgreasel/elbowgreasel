@@ -12,13 +12,13 @@
   <a href="https://develbowgrease.netlify.app/" target="_blank">
       <img src="https://img.shields.io/static/v1?color=rgb(0, 36, 43)&label=&message=MY PORTFOLIO&style=flat-square">
   </a>
-  <a href="#" target="_blank">
+  <a href="https://twitter.com/DevElbowGrease" target="_blank">
     <img src="https://img.shields.io/static/v1?color=rgb(0, 36, 43)&label=&message=TWITTER&logo=twitter&logoColor=rgb%28100%2C185%2C%20250%29&style=flat-square">
   </a>
-  <a href="" target="_blank">
+  <a href="https://www.linkedin.com/in/jaden-kropp-2365a2232/" target="_blank">
     <img src="https://img.shields.io/static/v1?color=rgb(0, 36, 43)&label=&message=LINKED-IN&logo=linkedin&logo-color=rgb%28100%2C185%2C%20250%29&style=flat-square">
   </a>
-  <a href="" target="_blank">
+  <a href="https://angel.co/u/jaden-kropp" target="_blank">
     <img src="https://img.shields.io/static/v1?color=rgb(0, 36, 43)&label=&message=ANGEL-LIST&logo=angellist&style=flat-square">
   </a>
 <!--
