@@ -4,7 +4,7 @@
 
 <br/>
 
-### <div align="center">My name is Jaden, I am a full-stack software engineer.</div>
+### <div align="center">My name is Jaden, I am a software engineer.</div>
 
 <br>
 
